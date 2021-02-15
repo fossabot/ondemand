@@ -116,7 +116,7 @@
     "stylelint-config-standard": "^4.0.0",
     "tape": "^4.4.0",
     "version-io": "^1.2.5",
-    "yaspeller": "^2.6.0"
+    "yaspeller": "^7.0.0"
   },
   "engines": {
     "node": ">=0.10"
