@@ -114,7 +114,7 @@
     "shortdate": "^1.0.1",
     "stylelint": "^5.0.1",
     "stylelint-config-standard": "^4.0.0",
-    "tape": "^4.4.0",
+    "tape": "^5.1.1",
     "version-io": "^1.2.5",
     "yaspeller": "^2.6.0"
   },
