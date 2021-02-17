@@ -88,7 +88,7 @@
     "os-homedir": "1.0.2",
     "package-json": "~2.3.0",
     "pipe-io": "1.2.1",
-    "ponse": "1.4.2",
+    "ponse": "6.0.0",
     "readjson": "1.1.3",
     "remedy": "1.3.2",
     "rendy": "1.1.0",
