@@ -52,7 +52,7 @@
     "babelify": "^7.3.0",
     "browserify": "^13.1.0",
     "chai": "^3.5.0",
-    "commander": "^2.9.0",
+    "commander": "^7.1.0",
     "es-module-loader": "^2.1.0",
     "eslint": "^4.16.0",
     "fs-extra": "^1.0.0",
