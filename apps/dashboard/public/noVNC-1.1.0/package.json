@@ -62,7 +62,7 @@
     "karma-mocha-reporter": "^2.2.0",
     "karma-sauce-launcher": "^1.0.0",
     "karma-sinon-chai": "^2.0.0",
-    "mocha": "^3.1.2",
+    "mocha": "^8.3.0",
     "node-getopt": "*",
     "po2json": "*",
     "requirejs": "^2.3.2",
