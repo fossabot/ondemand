@@ -45,7 +45,7 @@ GEM
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
     arel (9.0.0)
-    autoprefixer-rails (8.6.5)
+    autoprefixer-rails (10.2.4.0)
       execjs
     bootstrap-sass (3.4.1)
       autoprefixer-rails (>= 5.2.1)
@@ -219,7 +219,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  autoprefixer-rails (~> 8.4)
+  autoprefixer-rails (~> 10.2)
   bootstrap-sass (~> 3.4.1)
   bootstrap_form (~> 2.7.0)
   byebug
