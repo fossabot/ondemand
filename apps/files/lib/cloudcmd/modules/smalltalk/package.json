@@ -57,6 +57,6 @@
     "promise-polyfill": "~4.0.1",
     "stylelint": "^4.4.0",
     "stylelint-config-standard": "^3.0.0",
-    "watch": "^0.17.1"
+    "watch": "^1.0.2"
   }
 }
