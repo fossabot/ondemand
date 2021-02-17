@@ -23,7 +23,7 @@
     "karma-browserify": "^4.4.2",
     "karma-chrome-launcher": "^0.2.2",
     "karma-mocha": "^0.2.1",
-    "mocha": "^2.3.4",
+    "mocha": "^8.3.0",
     "promises-aplus-tests": "*",
     "sinon": "^1.17.2",
     "uglify-js": "^2.6.2"
