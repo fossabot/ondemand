@@ -72,7 +72,7 @@
     "faust": "1.0.4",
     "files-io": "1.2.6",
     "flop": "1.4.2",
-    "format-io": "0.9.6",
+    "format-io": "2.0.0",
     "freeport": "1.0.5",
     "handlebars": "4.7.6",
     "http-auth": "2.2.9",
