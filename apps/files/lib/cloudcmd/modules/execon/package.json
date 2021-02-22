@@ -18,6 +18,6 @@
   },
   "main": "lib/exec.js",
   "devDependencies": {
-    "tape": "~4.2.1"
+    "tape": "~5.2.0"
   }
 }
