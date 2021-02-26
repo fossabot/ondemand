@@ -3,6 +3,7 @@
 [![Build Status](https://github.com/osc/ondemand/workflows/Tests/badge.svg)](https://github.com/OSC/ondemand/actions?query=workflow%3ATests)
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg?color=success)](https://opensource.org/licenses/MIT)
 [![DOI](http://joss.theoj.org/papers/10.21105/joss.00622/status.svg)](https://doi.org/10.21105/joss.00622)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fritvikbhawnani%2Fondemand.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fritvikbhawnani%2Fondemand?ref=badge_shield)
 > Supercomputing. Seamlessly. Open, Interactive HPC Via the Web
 
 - Website: http://openondemand.org/
@@ -40,6 +41,9 @@ https://github.com/OSC/ondemand. Please read our [contributing guide] to get sta
 ## License
 
 The code is available as open source under the terms of the [MIT License].
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fritvikbhawnani%2Fondemand.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fritvikbhawnani%2Fondemand?ref=badge_large)
 
 ## Maintained by OSC
 This project is maintained by the <a href="https://www.osc.edu">Ohio Supercomputer Center (OSC)</a>, a member of the <a href="https://www.oh-tech.org/">Ohio Technology Consortium</a>, the technology and information division of the <a href="https://education.ohio.gov/">Ohio Department of Higher Education.</a>
